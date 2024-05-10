@@ -70,6 +70,8 @@ public class MinarJuego extends JFrame implements KeyListener {
                     JOptionPane.showMessageDialog(null, "¡Has hecho clic en el botón!");
                 }
             });
+        }
+    }
 
     public void keyTyped(KeyEvent e) {
     }
@@ -89,7 +91,7 @@ public class MinarJuego extends JFrame implements KeyListener {
             setTitle("SEX!");
         }
 
-} 
+    } 
 
 
 
